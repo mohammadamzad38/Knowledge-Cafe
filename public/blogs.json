@@ -1,53 +1,52 @@
 [
-    {
-      "id": 1,
-      "cover": "https://i.ibb.co.com/LpsJvPD/66fabc32423171aa0fd850091b65d1e0.jpg",
-      "title": "Exploring the Future of AI",
-      "author": "Jane Doe",
-      "author_img": "https://i.ibb.co.com/3vQhPVS/f77d0b7db0fcbbff57086d30d4f44a47.jpg",
-      "post_date": "2024-11-18",
-      "reading_time": "5 min",
-      "hashtags": ["#AI", "#Technology", "#Future"]
-    },
-    {
-      "id": 2,
-      "cover": "https://i.ibb.co.com/g324TgB/d611125401fa3da1cf676e84401c69b6.jpg",
-      "title": "The Art of Minimalism",
-      "author": "John Smith",
-      "author_img": "https://i.ibb.co.com/zZWgM9n/4d2c0a6fd2d84d9c502ebf28dd126131.jpg",
-      "post_date": "2024-11-15",
-      "reading_time": "8 min",
-      "hashtags": ["#Minimalism", "#Lifestyle", "#Design"]
-    },
-    {
-      "id": 3,
-      "cover": "https://i.ibb.co.com/n14ZXSS/53918fe78985d4b2fe476fe34dd214f5.jpg",
-      "title": "Traveling the World on a Budget",
-      "author": "Emily White",
-      "author_img": "https://i.ibb.co.com/zZWgM9n/4d2c0a6fd2d84d9c502ebf28dd126131.jpg",
-      "post_date": "2024-11-10",
-      "reading_time": "10 min",
-      "hashtags": ["#Travel", "#BudgetTips", "#Adventure"]
-    },
-    {
-      "id": 4,
-      "cover": "https://i.ibb.co.com/s5wk2nn/77d775897a4e5530fa15b04e776c5074.jpg",
-      "title": "Mastering React: A Beginner's Guide",
-      "author": "Michael Green",
-      "author_img": "https://i.ibb.co.com/zZWgM9n/4d2c0a6fd2d84d9c502ebf28dd126131.jpg",
-      "post_date": "2024-11-05",
-      "reading_time": "12 min",
-      "hashtags": ["#React", "#WebDevelopment", "#JavaScript"]
-    },
-    {
-      "id": 5,
-      "cover": "https://i.ibb.co.com/XynhcJP/f91bfc1a9425e643a9f369edfe578f18.jpg",
-      "title": "Healthy Living in a Busy World",
-      "author": "Sophia Brown",
-      "author_img": "https://i.ibb.co.com/3vQhPVS/f77d0b7db0fcbbff57086d30d4f44a47.jpg",
-      "post_date": "2024-11-01",
-      "reading_time": "7 min",
-      "hashtags": ["#Health", "#Wellness", "#Nutrition"]
-    }
-  ]
-  
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/LpsJvPD/66fabc32423171aa0fd850091b65d1e0.jpg",
+    "title": "Exploring the Future of AI",
+    "author": "Jane Doe",
+    "author_img": "https://i.ibb.co.com/TRn7n6p/a3ac2390f687be05ab73240faba20304.png",
+    "post_date": "2024-11-18",
+    "reading_time": "5",
+    "hashtags": ["AI", "Technology", "Future"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co.com/g324TgB/d611125401fa3da1cf676e84401c69b6.jpg",
+    "title": "The Art of Minimalism",
+    "author": "John Smith",
+    "author_img": "https://i.ibb.co.com/TRn7n6p/a3ac2390f687be05ab73240faba20304.png",
+    "post_date": "2024-11-15",
+    "reading_time": "8",
+    "hashtags": ["Minimalism", "Lifestyle", "Design"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co.com/n14ZXSS/53918fe78985d4b2fe476fe34dd214f5.jpg",
+    "title": "Traveling the World on a Budget",
+    "author": "Emily White",
+    "author_img": "https://i.ibb.co.com/TRn7n6p/a3ac2390f687be05ab73240faba20304.png",
+    "post_date": "2024-11-10",
+    "reading_time": "10",
+    "hashtags": ["Travel", "BudgetTips", "Adventure"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co.com/s5wk2nn/77d775897a4e5530fa15b04e776c5074.jpg",
+    "title": "Mastering React: A Beginner's Guide",
+    "author": "Michael Green",
+    "author_img": "https://i.ibb.co.com/TRn7n6p/a3ac2390f687be05ab73240faba20304.png",
+    "post_date": "2024-11-05",
+    "reading_time": "12",
+    "hashtags": ["React", "WebDevelopment", "JavaScript"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co.com/XynhcJP/f91bfc1a9425e643a9f369edfe578f18.jpg",
+    "title": "Healthy Living in a Busy World",
+    "author": "Sophia Brown",
+    "author_img": "https://i.ibb.co.com/TRn7n6p/a3ac2390f687be05ab73240faba20304.png",
+    "post_date": "2024-11-01",
+    "reading_time": "7",
+    "hashtags": ["Health", "Wellness", "Nutrition"]
+  }
+]
