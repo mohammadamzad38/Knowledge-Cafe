@@ -6,7 +6,7 @@
     "author": "Jane Doe",
     "author_img": "https://i.ibb.co.com/TRn7n6p/a3ac2390f687be05ab73240faba20304.png",
     "post_date": "2024-11-18",
-    "reading_time": "5",
+    "reading_time": 5,
     "hashtags": ["AI", "Technology", "Future"]
   },
   {
@@ -16,7 +16,7 @@
     "author": "John Smith",
     "author_img": "https://i.ibb.co.com/TRn7n6p/a3ac2390f687be05ab73240faba20304.png",
     "post_date": "2024-11-15",
-    "reading_time": "8",
+    "reading_time": 8,
     "hashtags": ["Minimalism", "Lifestyle", "Design"]
   },
   {
@@ -26,7 +26,7 @@
     "author": "Emily White",
     "author_img": "https://i.ibb.co.com/TRn7n6p/a3ac2390f687be05ab73240faba20304.png",
     "post_date": "2024-11-10",
-    "reading_time": "10",
+    "reading_time": 10,
     "hashtags": ["Travel", "BudgetTips", "Adventure"]
   },
   {
@@ -36,7 +36,7 @@
     "author": "Michael Green",
     "author_img": "https://i.ibb.co.com/TRn7n6p/a3ac2390f687be05ab73240faba20304.png",
     "post_date": "2024-11-05",
-    "reading_time": "12",
+    "reading_time": 12,
     "hashtags": ["React", "WebDevelopment", "JavaScript"]
   },
   {
@@ -46,7 +46,7 @@
     "author": "Sophia Brown",
     "author_img": "https://i.ibb.co.com/TRn7n6p/a3ac2390f687be05ab73240faba20304.png",
     "post_date": "2024-11-01",
-    "reading_time": "7",
+    "reading_time": 7,
     "hashtags": ["Health", "Wellness", "Nutrition"]
   }
 ]
